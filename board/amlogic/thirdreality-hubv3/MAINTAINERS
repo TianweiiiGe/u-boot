@@ -1,0 +1,7 @@
+ThirdReality HUBV3
+M:	Tianwei Ge <gtweiiiii@gmail.com>
+S:	Maintained
+L:	u-boot-amlogic@groups.io
+F:	board/amlogic/thirdreality-hubv3/
+F:	configs/thirdreality_hubv3_defconfig
+F:	doc/board/amlogic/thirdreality-hubv3.rst
